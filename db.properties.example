@@ -1,0 +1,5 @@
+# Copy this file to db.properties and fill in your own login.
+# db.properties is in .gitignore, so your password is never uploaded.
+db.url=jdbc:mysql://mi-linux.wlv.ac.uk:3306/your_database
+db.user=your_username
+db.password=your_password

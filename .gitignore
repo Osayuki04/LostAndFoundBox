@@ -1,0 +1,17 @@
+# Compiled files
+bin/
+out/
+*.class
+
+# Secrets: database login (see db.properties.example)
+db.properties
+.env
+*.env
+
+# Editor and OS files
+.vscode/*
+!.vscode/settings.json
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
